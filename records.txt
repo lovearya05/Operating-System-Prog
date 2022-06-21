@@ -1,0 +1,2 @@
+(<tkinter.StringVar object at 0x0000012C7864C580>, <tkinter.StringVar object at 0x0000012C7864C670>, <tkinter.StringVar object at 0x0000012C78660160>)
+ 
